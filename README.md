@@ -1,5 +1,10 @@
 # Googletrans-By-RNP
 
-Install:
+
+#### Installation
+
+```BASH
+Installation
 pip install tkinter
 pip install googletrans
+```
