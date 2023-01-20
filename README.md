@@ -7,8 +7,9 @@
 Installation
 pip install -r requirements.txt
 
-or
-
+jika kode error gunakan perintah dibawah:
 pip install tkinter
 pip install googletrans
+pip install googletrans==4.0.0-rc1
+pip install googletrans==3.1.0a0
 ```
