@@ -13,7 +13,10 @@ else:
   pip install tkinter
   pip install googletrans
   pip install googletrans==4.0.0-rc1
-  
-running program:
+```
+
+#### Running Program
+
+```BASH
 python translate_RNP.py
 ```
